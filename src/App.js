@@ -36,7 +36,7 @@ class App extends Component {
   }
 
   connect() {
-    this.client = mqtt.connect(socketurls.ECLIPSE_URL);
+    this.client = mqtt.connect(socketurls.ECLIPSE_URL_SECURE);
     this.client.on('connect', () => {
       this.client.subscribe('react-room', (err) => {
         if (!err) {
