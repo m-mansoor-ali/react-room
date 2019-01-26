@@ -1,7 +1,7 @@
 {
   "main.css": "/react-room/static/css/main.bf8df283.chunk.css",
-  "main.js": "/react-room/static/js/main.258e76dc.chunk.js",
-  "main.js.map": "/react-room/static/js/main.258e76dc.chunk.js.map",
+  "main.js": "/react-room/static/js/main.df5c04d3.chunk.js",
+  "main.js.map": "/react-room/static/js/main.df5c04d3.chunk.js.map",
   "static/js/1.f4e9df25.chunk.js": "/react-room/static/js/1.f4e9df25.chunk.js",
   "static/js/1.f4e9df25.chunk.js.map": "/react-room/static/js/1.f4e9df25.chunk.js.map",
   "runtime~main.js": "/react-room/static/js/runtime~main.69145f96.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/react-room/static/media/logo.5d5d9eef.svg",
   "static/css/main.bf8df283.chunk.css.map": "/react-room/static/css/main.bf8df283.chunk.css.map",
   "index.html": "/react-room/index.html",
-  "precache-manifest.3c1b87dc95fd0412ae4c6d082ab1e1ad.js": "/react-room/precache-manifest.3c1b87dc95fd0412ae4c6d082ab1e1ad.js",
+  "precache-manifest.b0944499b999ffbc946190f439e5a6a6.js": "/react-room/precache-manifest.b0944499b999ffbc946190f439e5a6a6.js",
   "service-worker.js": "/react-room/service-worker.js"
 }
